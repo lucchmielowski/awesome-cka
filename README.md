@@ -45,7 +45,7 @@ You need to be very comfortable with the following tools, so that you are not wa
 
 You only get one console, tmux and screen area allowed. This will allow you to split your single console into multiple windows. ie one master, two nodes. Try and use it in your daily workflow to get comfortable with the default settings. This is purely optional, most people pass the exam without the needed of `tmux`.
 
-- [ ] **Perform tmux deepdive** - [https://thoughtbot.com/upcase/tmux](https://thoughtbot.com/upcase/tmux) - This course teaches you about tmux's pane and window management, session management, copy-paste, and more. 
+- [x] **Perform tmux deepdive** - [https://thoughtbot.com/upcase/tmux](https://thoughtbot.com/upcase/tmux) - This course teaches you about tmux's pane and window management, session management, copy-paste, and more. 
 
 ### vi
 
