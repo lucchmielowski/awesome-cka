@@ -53,7 +53,7 @@ You only get one console, tmux and screen area allowed. This will allow you to s
 
 ### systemd
 
-- [ ] Read **Systemd Essentials: Working with Services, Units, and the Journal** and play - [https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal) - In this guide, we'll give you a quick run through of the most important commands you'll want to know for managing a systemd enabled server.
+- [x] Read **Systemd Essentials: Working with Services, Units, and the Journal** and play - [https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal](https://www.digitalocean.com/community/tutorials/systemd-essentials-working-with-services-units-and-the-journal) - In this guide, we'll give you a quick run through of the most important commands you'll want to know for managing a systemd enabled server.
 
 - [ ] Read **How To Use Systemctl to Manage Systemd Services and Units** and play - [https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units](https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units) - In this guide, we will be discussing the systemctl command, which is the central management tool for controlling the init system.
 
