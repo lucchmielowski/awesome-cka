@@ -49,7 +49,7 @@ You only get one console, tmux and screen area allowed. This will allow you to s
 
 ### vi
 
-- [ ] **Perform Onramp to Vim** - [https://thoughtbot.com/upcase/onramp-to-vim](https://thoughtbot.com/upcase/onramp-to-vim) - Get up and running with the world's best text editor. No Vim experience is required, but you'll be productive in no time (and blazing-fast, soon).
+- [x] **Perform Onramp to Vim** - [https://thoughtbot.com/upcase/onramp-to-vim](https://thoughtbot.com/upcase/onramp-to-vim) - Get up and running with the world's best text editor. No Vim experience is required, but you'll be productive in no time (and blazing-fast, soon).
 
 ### systemd
 
