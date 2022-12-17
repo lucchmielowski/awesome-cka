@@ -63,7 +63,7 @@ You only get one console, tmux and screen area allowed. This will allow you to s
 
 ### kubectl
 
-- [ ] Memorise **kubectl Cheat Sheet** and play - [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - This page is an overview of the kubectl command. **NOTE:** This page can be referenced with your one other available tab.
+- [x] Memorise **kubectl Cheat Sheet** and play - [https://kubernetes.io/docs/reference/kubectl/cheatsheet/](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) - This page is an overview of the kubectl command. **NOTE:** This page can be referenced with your one other available tab.
 
 These aliases will help save the precious time you have. Use these during your studies, so you are used to them on the day.
 
